@@ -8,7 +8,7 @@ This is a simple personal assistant project, created as a part of my learning jo
 - Weather updates based on your location
 - Fun features like jokes, news, and more!
 
-## Demo
+## PORTFOLIO
 
 Check out my portfolio here: [devfaru.netlify.app](https://devfaru.netlify.app)
 
